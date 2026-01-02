@@ -1,13 +1,13 @@
 # Hi there, I'm Yiğit Kızıl! 👋
 
-[cite_start]I am a **Junior AI Software Developer** and a **Mathematics student** at Marmara University[cite: 4, 6, 28]. [cite_start]I specialize in building real-time AI systems, Computer Vision applications, and fine-tuning LLMs[cite: 4].
+I am a **Junior AI Software Developer** and a **Mathematics student** at Marmara University. I specialize in building real-time AI systems, Computer Vision applications, and fine-tuning LLMs.
 
 ## 🚀 About Me
 
-* [cite_start]🎓 Currently pursuing a Bachelor's degree in **Mathematics** with a focus on applied AI[cite: 6, 27].
-* [cite_start]💼 Working as a Junior AI Developer at **Extoget Bilişim**[cite: 11].
-* [cite_start]🤖 Experienced in **YOLO-based object detection**, **RAG chatbots**, and **WebRTC** applications[cite: 5].
-* [cite_start]🏆 **Teknofest Finalist** (2024) in autonomous vehicle development[cite: 24, 25].
+* 🎓 Currently pursuing a Bachelor's degree in **Mathematics** with a focus on applied AI.
+* 💼 Working as a Junior AI Developer at **Extoget Bilişim**.
+* 🤖 Experienced in **YOLO-based object detection**, **RAG chatbots**, and **WebRTC** applications.
+* 🏆 **Teknofest Finalist** (2024) in autonomous vehicle development.
 
 ---
 
@@ -34,23 +34,20 @@
 
 ## 💻 Featured Projects
 
-### 🐢 [Turtleditor (2025)](https://yigitkizil.com)
+### 🐢 [Turtleditor (2025)](https://turtleditor.pages.dev)
 A client-side AI image processing app running entirely in the browser.
 * **Tech:** TensorFlow.js, UpscalerJs, U-2-Net.
 * **Features:** Background removal, upscaling, and visual enhancement on local devices.
-[cite_start][cite: 15, 16]
 
 ### 🚜 Autonomous Field Cultivation Vehicle (Teknofest 2024)
 Developed for the Teknofest competition, reaching the finals.
 * **Tech:** YOLO object detection, Autonomous navigation.
 * **Role:** Developed pest detection and autonomous cultivation logic.
-[cite_start][cite: 24, 25]
 
 ### 🧠 NameGenx (2021)
 AI-powered unique domain name generator.
 * **Tech:** Fine-tuned **GPT-2** model.
 * **Function:** Generated domain suggestions based on custom datasets.
-[cite_start][cite: 19, 20]
 
 ---
 
@@ -60,12 +57,10 @@ AI-powered unique domain name generator.
 * Building AI-powered real-time assistants using LLM APIs and WebRTC.
 * Developing RAG-based chatbots using LangChain.
 * Fine-tuning LLM models for simultaneous text translation.
-[cite_start][cite: 11]
 
 **Software Developer** | FARMO Otonom Çözümler *(Oct 2023 - Jul 2024)*
 * Trained YOLO models for autonomous systems.
 * Developed OpenCV-based pathfinding and masking algorithms.
-[cite_start][cite: 12, 13]
 
 ---
 
