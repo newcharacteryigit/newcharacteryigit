@@ -5,7 +5,6 @@ I am a **Junior AI Software Developer** and a **Mathematics student** at Marmara
 ## 🚀 About Me
 
 * 🎓 Currently pursuing a Bachelor's degree in **Mathematics** with a focus on applied AI.
-* 💼 Working as a Junior AI Developer at **Extoget Bilişim**.
 * 🤖 Experienced in **YOLO-based object detection**, **RAG chatbots**, and **WebRTC** applications.
 * 🏆 **Teknofest Finalist** (2024) in autonomous vehicle development.
 
@@ -53,7 +52,7 @@ AI-powered unique domain name generator.
 
 ## 💼 Experience
 
-**Junior AI Software Developer** | Extoget Bilişim *(Jul 2024 - Present)*
+**Junior AI Software Developer** | Extoget Bilişim *(Jul 2024 - Feb 2026)*
 * Building AI-powered real-time assistants using LLM APIs and WebRTC.
 * Developing RAG-based chatbots using LangChain.
 * Fine-tuning LLM models for simultaneous text translation.
